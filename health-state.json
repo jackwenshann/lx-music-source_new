@@ -1,8 +1,8 @@
 {
   "hosts": {
     "103.79.184.97": {
-      "consecutive_failures": 2,
-      "last_status": "失效"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "13413.kstore.vip": {
       "consecutive_failures": 0,
@@ -77,8 +77,8 @@
       "last_status": "可用"
     },
     "api.vsaa.cn": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "api.xcvts.cn": {
       "consecutive_failures": 0,
@@ -257,8 +257,8 @@
       "last_status": "可用"
     },
     "yinyue.haitangw.net": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "ynx.de5.net": {
       "consecutive_failures": 2,
@@ -278,7 +278,7 @@
     }
   },
   "sources": {
-    "changqing": "可用",
+    "changqing": "异常",
     "fish": "可用",
     "flower": "失效",
     "grass": "失效",
@@ -294,5 +294,5 @@
     "xinghai": "可用",
     "yuningxi": "可用"
   },
-  "updated_at": "2026-11-05 06:27"
+  "updated_at": "2026-11-08 04:41"
 }
